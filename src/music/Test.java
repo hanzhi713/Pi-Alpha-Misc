@@ -13,14 +13,9 @@ public class Test {
         PlayMultiTracks.setScriptLength(3, 4);
         PlayMultiTracks.setBeatLength(7, 8);
         PlayMultiTracks p;
-        p = new PlayMultiTracks(new Pin[]{RaspiPin.GPIO_00});
-        while (true){
-//            p = new PlayMultiTracks(new Pin[]{RaspiPin.GPIO_01, RaspiPin.GPIO_00, RaspiPin.GPIO_02});
-//            p.play(new Music[]{Music.WHAT_ARE_WORDS_HIGH, Music.WHAT_ARE_WORDS_LOW, Music.WHAT_ARE_WORDS_NOTES}, display);
-
-            p.play(new Music[]{Music.SONG_OF_JOY},null);
-            Thread.sleep(1000);
-            display.clear();
-        }
+        p = new PlayMultiTracks(new Pin[]{RaspiPin.GPIO_01, RaspiPin.GPIO_00, RaspiPin.GPIO_02});
+        p.play(new Music[]{Music.WHAT_ARE_WORDS_HIGH, Music.WHAT_ARE_WORDS_LOW, Music.WHAT_ARE_WORDS_NOTES}, display);
+        Thread.sleep(1000);
+        display.clear();
     }
 }
