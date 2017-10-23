@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="hid4java">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/lib/hid4java" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/lib/hid4java" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/lib/hid4java" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/hid4java" recursive="false" type="SOURCES" />
+  </library>
+</component>
