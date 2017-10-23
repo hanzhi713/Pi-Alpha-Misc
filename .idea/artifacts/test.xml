@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact name="test">
+    <output-path>$PROJECT_DIR$/out/artifacts/test</output-path>
+    <root id="root">
+      <element id="archive" name="Robot.jar">
+        <element id="module-output" name="Robot" />
+      </element>
+      <element id="library" level="project" name="gson" />
+      <element id="library" level="project" name="httpclient" />
+      <element id="library" level="project" name="hid4java" />
+      <element id="library" level="project" name="pi4j" />
+      <element id="library" level="project" name="dom4j-2.0.1" />
+      <element id="library" level="project" name="javacv-bin" />
+      <element id="library" level="project" name="jna-4.4.0" />
+    </root>
+  </artifact>
+</component>

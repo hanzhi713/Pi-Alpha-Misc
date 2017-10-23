@@ -1,7 +1,0 @@
-DirectoryIndex index.html index.php
-RewriteCond %{HTTP_HOST} !^cs.rdfz-edu.org [NC]
-RewriteCond %{HTTP_HOST} !^cs.cdn.rdfz-edu.org [NC]
-RewriteRule ^(.*)$ https://cs.cdn.rdfz-edu.org:6 [R=301]
-ErrorDocument 404 /Doc/err.php?code=404
-ErrorDocument 403 /Doc/err.php?code=403
-ErrorDocument 500 /Doc/err.php?code=500
