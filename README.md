@@ -4,12 +4,12 @@ A collection of raspberry pi and alpha robot (alpha 1s & 1pro) projects
 #### Dependencies
 Pi4j, Java-CV, Hid4java, Httpclient, GSON, FaceppSDK, JNA
 
-#### Alpha 1 pro movement control demo
+#### Alpha 1 pro responding to facial expression demo
 ![](/src/demo/Emotion_Response_demo.gif)
 
 See the alpha package
 
-#### Alpha 1 pro emotion response demo
+#### Alpha 1 pro movement control demo
 ![](/src/demo/Movement_Control_demo.gif)
 
 See the alpha package
