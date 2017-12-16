@@ -5,7 +5,9 @@ import com.pi4j.io.gpio.*;
 import java.util.HashMap;
 
 import static com.pi4j.wiringpi.Gpio.delay;
-
+/**
+ * @author Hanzhi Zhou
+ * */
 public class F3461BH implements DisposableGpioDevice {
     public static final String NAME = "4 Digits 8 Segments Display";
     private static final HashMap<Integer, boolean[]> Digit_Pin = new HashMap<>();

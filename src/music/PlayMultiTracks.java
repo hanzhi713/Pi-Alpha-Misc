@@ -54,8 +54,8 @@ public class PlayMultiTracks {
         trackNumber = pins.length;
         buzzers = new GpioPinDigitalOutput[trackNumber];
         for (int i = 0; i < trackNumber; i++) {
-            buzzers[i] = gpio.provisionDigitalOutputPin(pins[i]);
-            buzzers[i].setShutdownOptions(true, PinState.LOW, PinPullResistance.OFF);
+            buzzers[i] = gpio.provisionDigitalOutputPin(pins[i], PinState.LOW);
+            buzzers[i].setShutdownOptions(true, PinState.LOW, PinPullResistance.PULL_DOWN);
         }
     }
 
@@ -209,7 +209,6 @@ public class PlayMultiTracks {
         for (GpioPinDigitalOutput p : buzzers)
             gpio.unprovisionPin(p);
         gpio.shutdown();
-
     }
 
     /**

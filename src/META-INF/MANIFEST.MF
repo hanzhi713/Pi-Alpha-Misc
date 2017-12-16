@@ -1,41 +1,41 @@
 Manifest-Version: 1.0
-Class-Path: FaceppSDK.jar gson-2.8.1.jar gson-2.8.1-sources.jar httpco
- re-4.3.jar httpmime-4.3.1.jar fluent-hc-4.3.1.jar httpclient-4.3.1.ja
- r commons-codec-1.6.jar commons-logging-1.1.3.jar httpclient-cache-4.
- 3.1.jar hid4java-0.5.0.jar hid4java-0.5.0-sources.jar junit.jar pi4j-
- core.jar pi4j-device.jar pi4j-example.jar pi4j-service.jar pi4j-core-
- sources.jar pi4j-device-sources.jar pi4j-gpio-extension.jar pi4j-exam
- ple-sources.jar pi4j-service-sources.jar pi4j-gpio-extension-sources.
- jar dom4j-2.0.1.jar ffmpeg.jar javacv.jar opencv.jar javacpp.jar flan
- dmark.jar libdc1394.jar flycapture.jar videoinput.jar libfreenect.jar
-  libfreenect2.jar librealsense.jar artoolkitplus.jar ffmpeg-platform.
- jar javacv-platform.jar opencv-platform.jar ffmpeg-linux-x86.jar open
- cv-linux-x86.jar ffmpeg-android-arm.jar ffmpeg-android-x86.jar ffmpeg
- -linux-armhf.jar ffmpeg-windows-x86.jar flandmark-platform.jar libdc1
- 394-platform.jar opencv-android-arm.jar opencv-android-x86.jar opencv
- -linux-armhf.jar opencv-windows-x86.jar ffmpeg-linux-x86_64.jar fland
- mark-linux-x86.jar flycapture-platform.jar libdc1394-linux-x86.jar op
- encv-linux-x86_64.jar videoinput-platform.jar ffmpeg-linux-ppc64le.ja
- r ffmpeg-macosx-x86_64.jar flycapture-linux-x86.jar libfreenect-platf
- orm.jar opencv-linux-ppc64le.jar opencv-macosx-x86_64.jar ffmpeg-wind
- ows-x86_64.jar flandmark-android-arm.jar flandmark-android-x86.jar fl
- andmark-linux-armhf.jar flandmark-windows-x86.jar libdc1394-linux-arm
- hf.jar libdc1394-windows-x86.jar libfreenect-linux-x86.jar libfreenec
- t2-platform.jar librealsense-platform.jar opencv-windows-x86_64.jar a
- rtoolkitplus-platform.jar flandmark-linux-x86_64.jar flycapture-linux
- -armhf.jar flycapture-windows-x86.jar libdc1394-linux-x86_64.jar libf
- reenect2-linux-x86.jar librealsense-linux-x86.jar videoinput-windows-
- x86.jar artoolkitplus-linux-x86.jar flandmark-linux-ppc64le.jar fland
- mark-macosx-x86_64.jar flycapture-linux-x86_64.jar libdc1394-linux-pp
- c64le.jar libdc1394-macosx-x86_64.jar libfreenect-linux-armhf.jar lib
- freenect-windows-x86.jar flandmark-windows-x86_64.jar libdc1394-windo
- ws-x86_64.jar libfreenect-linux-x86_64.jar artoolkitplus-android-arm.
- jar artoolkitplus-android-x86.jar artoolkitplus-linux-armhf.jar artoo
- lkitplus-windows-x86.jar flycapture-windows-x86_64.jar libfreenect-li
- nux-ppc64le.jar libfreenect-macosx-x86_64.jar libfreenect2-linux-x86_
- 64.jar librealsense-linux-x86_64.jar videoinput-windows-x86_64.jar ar
- toolkitplus-linux-x86_64.jar libfreenect-windows-x86_64.jar artoolkit
- plus-linux-ppc64le.jar artoolkitplus-macosx-x86_64.jar artoolkitplus-
- windows-x86_64.jar jna-4.4.0.jar jna-platform-4.4.0.jar
-Main-Class: demo.EmoReco
+Class-Path: jna-4.4.0.jar jna-platform-4.4.0.jar dom4j-2.0.1.jar ffmpe
+ g.jar javacv.jar opencv.jar javacpp.jar flandmark.jar libdc1394.jar f
+ lycapture.jar videoinput.jar libfreenect.jar libfreenect2.jar libreal
+ sense.jar artoolkitplus.jar ffmpeg-platform.jar javacv-platform.jar o
+ pencv-platform.jar ffmpeg-linux-x86.jar opencv-linux-x86.jar ffmpeg-a
+ ndroid-arm.jar ffmpeg-android-x86.jar ffmpeg-linux-armhf.jar ffmpeg-w
+ indows-x86.jar flandmark-platform.jar libdc1394-platform.jar opencv-a
+ ndroid-arm.jar opencv-android-x86.jar opencv-linux-armhf.jar opencv-w
+ indows-x86.jar ffmpeg-linux-x86_64.jar flandmark-linux-x86.jar flycap
+ ture-platform.jar libdc1394-linux-x86.jar opencv-linux-x86_64.jar vid
+ eoinput-platform.jar ffmpeg-linux-ppc64le.jar ffmpeg-macosx-x86_64.ja
+ r flycapture-linux-x86.jar libfreenect-platform.jar opencv-linux-ppc6
+ 4le.jar opencv-macosx-x86_64.jar ffmpeg-windows-x86_64.jar flandmark-
+ android-arm.jar flandmark-android-x86.jar flandmark-linux-armhf.jar f
+ landmark-windows-x86.jar libdc1394-linux-armhf.jar libdc1394-windows-
+ x86.jar libfreenect-linux-x86.jar libfreenect2-platform.jar librealse
+ nse-platform.jar opencv-windows-x86_64.jar artoolkitplus-platform.jar
+  flandmark-linux-x86_64.jar flycapture-linux-armhf.jar flycapture-win
+ dows-x86.jar libdc1394-linux-x86_64.jar libfreenect2-linux-x86.jar li
+ brealsense-linux-x86.jar videoinput-windows-x86.jar artoolkitplus-lin
+ ux-x86.jar flandmark-linux-ppc64le.jar flandmark-macosx-x86_64.jar fl
+ ycapture-linux-x86_64.jar libdc1394-linux-ppc64le.jar libdc1394-macos
+ x-x86_64.jar libfreenect-linux-armhf.jar libfreenect-windows-x86.jar 
+ flandmark-windows-x86_64.jar libdc1394-windows-x86_64.jar libfreenect
+ -linux-x86_64.jar artoolkitplus-android-arm.jar artoolkitplus-android
+ -x86.jar artoolkitplus-linux-armhf.jar artoolkitplus-windows-x86.jar 
+ flycapture-windows-x86_64.jar libfreenect-linux-ppc64le.jar libfreene
+ ct-macosx-x86_64.jar libfreenect2-linux-x86_64.jar librealsense-linux
+ -x86_64.jar videoinput-windows-x86_64.jar artoolkitplus-linux-x86_64.
+ jar libfreenect-windows-x86_64.jar artoolkitplus-linux-ppc64le.jar ar
+ toolkitplus-macosx-x86_64.jar artoolkitplus-windows-x86_64.jar Facepp
+ SDK.jar gson-2.8.1.jar gson-2.8.1-sources.jar junit.jar pi4j-core.jar
+  pi4j-device.jar pi4j-example.jar pi4j-service.jar pi4j-core-sources.
+ jar pi4j-device-sources.jar pi4j-gpio-extension.jar pi4j-example-sour
+ ces.jar pi4j-service-sources.jar pi4j-gpio-extension-sources.jar hid4
+ java-0.5.0.jar hid4java-0.5.0-sources.jar httpcore-4.3.jar httpmime-4
+ .3.1.jar fluent-hc-4.3.1.jar httpclient-4.3.1.jar commons-codec-1.6.j
+ ar commons-logging-1.1.3.jar httpclient-cache-4.3.1.jar
+Main-Class: music.Test
 

@@ -5,7 +5,9 @@ import com.pi4j.io.gpio.event.GpioPinDigitalStateChangeEvent;
 import com.pi4j.io.gpio.event.GpioPinListenerDigital;
 
 import static com.pi4j.wiringpi.Gpio.delayMicroseconds;
-
+/**
+ * @author Hanzhi Zhou
+ * */
 public class HC_SR04 implements DisposableGpioDevice {
     public static final String NAME = "Ultrasonic Sensor";
     private final GpioPinDigitalOutput control;

@@ -1,7 +1,9 @@
 package sensing;
 
 import com.pi4j.io.gpio.*;
-
+/**
+ * @author Hanzhi Zhou
+ * */
 public class BarrierDetector implements DisposableGpioDevice {
     private final GpioController gpio = GpioFactory.getInstance();
     private final GpioPinDigitalInput sensor;
