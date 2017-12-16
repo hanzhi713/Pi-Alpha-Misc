@@ -7,159 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5815b1ba-75a9-4106-9474-1f90e014300c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/asus.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/test.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/Robot_jar.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/Robot.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/artoolkitplus-android-arm.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/artoolkitplus-android-x86.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/artoolkitplus-linux-armhf.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/artoolkitplus-linux-ppc64le.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/artoolkitplus-linux-x86.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/artoolkitplus-linux-x86_64.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/artoolkitplus-macosx-x86_64.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/artoolkitplus-platform.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/artoolkitplus-windows-x86.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/artoolkitplus-windows-x86_64.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/artoolkitplus.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/commons-codec-1.6.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/commons-logging-1.1.3.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/dom4j-2.0.1.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/ffmpeg-android-arm.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/ffmpeg-android-x86.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/ffmpeg-linux-armhf.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/ffmpeg-linux-ppc64le.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/ffmpeg-linux-x86.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/ffmpeg-linux-x86_64.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/ffmpeg-macosx-x86_64.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/ffmpeg-platform.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/ffmpeg-windows-x86.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/ffmpeg-windows-x86_64.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/ffmpeg.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/flandmark-android-arm.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/flandmark-android-x86.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/flandmark-linux-armhf.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/flandmark-linux-ppc64le.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/flandmark-linux-x86.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/flandmark-linux-x86_64.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/flandmark-macosx-x86_64.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/flandmark-platform.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/flandmark-windows-x86.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/flandmark-windows-x86_64.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/flandmark.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/fluent-hc-4.3.1.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/flycapture-linux-armhf.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/flycapture-linux-x86.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/flycapture-linux-x86_64.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/flycapture-platform.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/flycapture-windows-x86.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/flycapture-windows-x86_64.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/flycapture.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/gson-2.8.1-sources.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/gson-2.8.1.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/hid4java-0.5.0-sources.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/hid4java-0.5.0.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/httpclient-4.3.1.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/httpclient-cache-4.3.1.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/httpcore-4.3.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/httpmime-4.3.1.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/javacpp.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/javacv-platform.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/javacv.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/jna-4.4.0.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/jna-platform-4.4.0.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/junit.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/libdc1394-linux-armhf.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/libdc1394-linux-ppc64le.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/libdc1394-linux-x86.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/libdc1394-linux-x86_64.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/libdc1394-macosx-x86_64.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/libdc1394-platform.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/libdc1394-windows-x86.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/libdc1394-windows-x86_64.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/libdc1394.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/libfreenect-linux-armhf.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/libfreenect-linux-ppc64le.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/libfreenect-linux-x86.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/libfreenect-linux-x86_64.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/libfreenect-macosx-x86_64.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/libfreenect-platform.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/libfreenect-windows-x86.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/libfreenect-windows-x86_64.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/libfreenect.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/libfreenect2-linux-x86.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/libfreenect2-linux-x86_64.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/libfreenect2-platform.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/libfreenect2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/librealsense-linux-x86.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/librealsense-linux-x86_64.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/librealsense-platform.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/librealsense.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/opencv-android-arm.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/opencv-android-x86.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/opencv-linux-armhf.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/opencv-linux-ppc64le.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/opencv-linux-x86.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/opencv-linux-x86_64.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/opencv-macosx-x86_64.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/opencv-platform.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/opencv-windows-x86.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/opencv-windows-x86_64.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/opencv.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/pi4j-core-sources.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/pi4j-core.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/pi4j-device-sources.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/pi4j-device.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/pi4j-example-sources.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/pi4j-example.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/pi4j-gpio-extension-sources.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/pi4j-gpio-extension.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/pi4j-service-sources.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/pi4j-service.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/videoinput-platform.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/videoinput-windows-x86.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/videoinput-windows-x86_64.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/test/videoinput.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Robot/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/out/production/Robot/META-INF/MANIFEST.MF" />
-      <change beforePath="$PROJECT_DIR$/out/production/Robot/demo/Emotion_Response_demo.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Robot/demo/Form.class" afterPath="$PROJECT_DIR$/out/production/Robot/demo/Form.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Robot/demo/Movement_Control_demo.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Robot/demo/emo-reco.PNG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Robot/demo/emo-reco2.PNG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Robot/demo/temp-hum.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Robot/face/FacePPRequest.class" afterPath="$PROJECT_DIR$/out/production/Robot/face/FacePPRequest.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Robot/music/PlayMultiTracks.class" afterPath="$PROJECT_DIR$/out/production/Robot/music/PlayMultiTracks.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Robot/music/Test.class" afterPath="$PROJECT_DIR$/out/production/Robot/music/Test.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Robot/music/summer.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Robot/sensing/BarrierDetector.class" afterPath="$PROJECT_DIR$/out/production/Robot/sensing/BarrierDetector.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Robot/sensing/F3461BH.class" afterPath="$PROJECT_DIR$/out/production/Robot/sensing/F3461BH.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Robot/sensing/HC_SR04.class" afterPath="$PROJECT_DIR$/out/production/Robot/sensing/HC_SR04.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Robot/sensing/PCF8591.class" afterPath="$PROJECT_DIR$/out/production/Robot/sensing/PCF8591.class" />
-      <change beforePath="$PROJECT_DIR$/out/test/Robot/com/intellij/uiDesigner/core/AbstractLayout.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/test/Robot/com/intellij/uiDesigner/core/DimensionInfo.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/test/Robot/com/intellij/uiDesigner/core/GridConstraints.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/test/Robot/com/intellij/uiDesigner/core/GridLayoutManager.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/test/Robot/com/intellij/uiDesigner/core/HorizontalInfo.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/test/Robot/com/intellij/uiDesigner/core/LayoutState.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/test/Robot/com/intellij/uiDesigner/core/Spacer.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/test/Robot/com/intellij/uiDesigner/core/SupportCode$TextWithMnemonic.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/test/Robot/com/intellij/uiDesigner/core/SupportCode.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/test/Robot/com/intellij/uiDesigner/core/Util.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/test/Robot/com/intellij/uiDesigner/core/VerticalInfo.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
-      <change beforePath="$PROJECT_DIR$/src/demo/Emotion_Response_demo.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/demo/Form.java" afterPath="$PROJECT_DIR$/src/demo/Form.java" />
-      <change beforePath="$PROJECT_DIR$/src/demo/Movement_Control_demo.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/demo/emo-reco.PNG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/demo/emo-reco2.PNG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/demo/temp-hum.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/music/PlayMultiTracks.java" afterPath="$PROJECT_DIR$/src/music/PlayMultiTracks.java" />
-      <change beforePath="$PROJECT_DIR$/src/music/Test.java" afterPath="$PROJECT_DIR$/src/music/Test.java" />
-      <change beforePath="$PROJECT_DIR$/src/music/summer.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/sensing/BarrierDetector.java" afterPath="$PROJECT_DIR$/src/sensing/BarrierDetector.java" />
-      <change beforePath="$PROJECT_DIR$/src/sensing/F3461BH.java" afterPath="$PROJECT_DIR$/src/sensing/F3461BH.java" />
-      <change beforePath="$PROJECT_DIR$/src/sensing/HC_SR04.java" afterPath="$PROJECT_DIR$/src/sensing/HC_SR04.java" />
-      <change beforePath="$PROJECT_DIR$/src/sensing/PCF8591.java" afterPath="$PROJECT_DIR$/src/sensing/PCF8591.java" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -227,8 +76,8 @@
       <file leaf-file-name="I2CLCDExtended.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sensing/I2CLCDExtended.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="63" column="30" lean-forward="true" selection-start-line="63" selection-start-column="30" selection-end-line="63" selection-end-column="30" />
+            <state relative-caret-position="1830">
+              <caret line="63" column="30" lean-forward="false" selection-start-line="63" selection-start-column="30" selection-end-line="63" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -237,19 +86,32 @@
       <file leaf-file-name="FaceDetection.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/face/FaceDetection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="22" column="88" lean-forward="true" selection-start-line="22" selection-start-column="88" selection-end-line="22" selection-end-column="88" />
+            <state relative-caret-position="240">
+              <caret line="22" column="88" lean-forward="false" selection-start-line="22" selection-start-column="88" selection-end-line="22" selection-end-column="88" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FaceRecognition.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FaceRecognition.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/face/FaceRecognition.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="653">
+            <state relative-caret-position="3450">
               <caret line="137" column="6" lean-forward="false" selection-start-line="137" selection-start-column="6" selection-end-line="137" selection-end-column="6" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="750">
+                <caret line="25" column="12" lean-forward="false" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -338,7 +200,6 @@
         <option value="$PROJECT_DIR$/src/demo/Form.form" />
         <option value="$PROJECT_DIR$/src/face/FaceDetection.java" />
         <option value="$PROJECT_DIR$/src/demo/EmoReco.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/face/FaceRecognition.java" />
         <option value="$PROJECT_DIR$/src/music/PlayMultiTracks.java" />
         <option value="$PROJECT_DIR$/src/music/HappyBirthdayToMargaret.java" />
@@ -348,6 +209,7 @@
         <option value="$PROJECT_DIR$/src/sensing/F3461BH.java" />
         <option value="$PROJECT_DIR$/src/sensing/HC_SR04.java" />
         <option value="$PROJECT_DIR$/src/sensing/BarrierDetector.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -458,8 +320,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -513,6 +373,8 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -1147,16 +1009,20 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997735" sideWeight="0.49570817" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2247854" sideWeight="0.51054853" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="SFDX" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34541336" sideWeight="0.46566522" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.49570817" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Log Manager" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1296,7 +1162,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/demo/emo-reco.PNG" />
-    <entry file="file://$PROJECT_DIR$/README.md" />
     <entry file="file://$PROJECT_DIR$/src/demo/emo-reco2.PNG" />
     <entry file="file://$PROJECT_DIR$/src/demo/EmoReco.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1352,7 +1217,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-396">
           <caret line="210" column="24" lean-forward="false" selection-start-line="210" selection-start-column="24" selection-end-line="210" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1361,7 +1225,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1369,7 +1232,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1385,13 +1247,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="194">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="11" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1890#1891#0" expanded="false" />
-            <element signature="e#1935#1936#0" expanded="false" />
-            <element signature="e#1993#1994#0" expanded="false" />
-            <element signature="e#2035#2036#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1399,7 +1254,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="9" column="5" lean-forward="false" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1407,9 +1261,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="9" column="5" lean-forward="false" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1440,24 +1291,41 @@
     <entry file="file://$PROJECT_DIR$/src/music/summer.xml" />
     <entry file="file://$PROJECT_DIR$/src/sensing/I2CLCDExtended.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="63" column="30" lean-forward="true" selection-start-line="63" selection-start-column="30" selection-end-line="63" selection-end-column="30" />
+        <state relative-caret-position="1830">
+          <caret line="63" column="30" lean-forward="false" selection-start-line="63" selection-start-column="30" selection-end-line="63" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/face/FaceDetection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="22" column="88" lean-forward="true" selection-start-line="22" selection-start-column="88" selection-end-line="22" selection-end-column="88" />
+        <state relative-caret-position="240">
+          <caret line="22" column="88" lean-forward="false" selection-start-line="22" selection-start-column="88" selection-end-line="22" selection-end-column="88" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/face/FaceRecognition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="653">
+        <state relative-caret-position="3450">
           <caret line="137" column="6" lean-forward="false" selection-start-line="137" selection-start-column="6" selection-end-line="137" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="750">
+            <caret line="25" column="12" lean-forward="false" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
